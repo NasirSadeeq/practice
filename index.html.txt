@@ -1,3 +1,4 @@
 this is my first git repository.
 this is version 2 of my project. keep learning and be happy if possible.
 now i understood some things about git .
+hello today is my second day of using gitHub.
